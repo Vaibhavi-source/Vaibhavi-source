@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F093FB&center=true&vCenter=true&width=650&lines=2nd-year+CSE+%40+RV+College+of+Engineering+%F0%9F%8F%AB;AI+%7C+Web3+%7C+Full-Stack+%7C+Hackathon+Builder+%F0%9F%9A%80;National+Hackathon+Winner+%F0%9F%8F%86+%7C+Blockchain+Fellow;Building+systems+that+ship+and+scale+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F093FB&center=true&vCenter=true&width=650&lines=2nd-year+CSE+%40+RV+College+of+Engineering+%F0%9F%8F%AB;AI+%7C+Web3+%7C+Full-Stack+%7C+Prototype+Builder+%F0%9F%9A%80;National+Hackathon+Winner+%F0%9F%8F%86+%7C+Blockchain+Fellow;Building+systems+that+ship+and+scale+%E2%9A%A1)
 
 </div>
 
