@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=2nd-year+CSE+%40+RV+College+of+Engineering%2C+Bengaluru;AI+%7C+Web3+%7C+Full-Stack+%7C+Hackathon+Builder;GSoC+2026+Applicant+%7C+National+Hackathon+Winner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F093FB&center=true&vCenter=true&width=650&lines=2nd-year+CSE+%40+RV+College+of+Engineering+%F0%9F%8F%AB;AI+%7C+Web3+%7C+Full-Stack+%7C+Hackathon+Builder+%F0%9F%9A%80;National+Hackathon+Winner+%F0%9F%8F%86+%7C+Blockchain+Fellow;Building+systems+that+ship+and+scale+%E2%9A%A1)
 
 </div>
 
@@ -32,15 +32,11 @@
 
 <div align="center">
 
-```
-  2nd-year CSE Student · R.V. College of Engineering, Bengaluru
-```
+### 🎓 2nd-year CSE · RV College of Engineering, Bengaluru
 
-**Crafting intelligent, interactive systems at the intersection of AI, Web3, and real-world impact.**
-Forever iterating — *learning, building, and refining* with every commit.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=3000&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Crafting+intelligent+%26+interactive+systems+at+the+intersection+of+AI%2C+Web3+%26+real-world+impact.;Forever+iterating+%E2%80%94+learning%2C+building%2C+and+refining+with+every+commit+%F0%9F%9A%80" />
 
 </div>
-
 ---
 
 ## 🙋‍♀️ About Me
