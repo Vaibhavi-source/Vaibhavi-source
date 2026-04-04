@@ -24,9 +24,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Vaibhavi-source&style=flat-square&color=blueviolet&label=Profile+Views" />
-</div>
+
 
 ---
 
@@ -34,7 +32,13 @@
 
 ### 🎓 2nd-year CSE · RV College of Engineering, Bengaluru
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=3000&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Crafting+intelligent+%26+interactive+systems+at+the+intersection+of+AI%2C+Web3+%26+real-world+impact.;Forever+iterating+%E2%80%94+learning%2C+building%2C+and+refining+with+every+commit+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=999999&color=F093FB&center=true&vCenter=true&width=750&height=40&lines=Crafting+intelligent+%26+interactive+systems" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=999999&color=F093FB&center=true&vCenter=true&width=750&height=40&lines=at+the+intersection+of+AI%2C+Web3+%26+real-world+impact." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=999999&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=Forever+iterating+%E2%80%94+learning%2C+building%2C+and+refining" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=999999&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=with+every+commit+%F0%9F%9A%80" />
 
 </div>
 ---
