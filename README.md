@@ -1,15 +1,31 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Vaibhavi%20Jaiswal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20systems%20that%20think%2C%20ship%2C%20and%20scale.&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Vaibhavi%20Jaiswal&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Building%20systems%20that%20think%2C%20ship%2C%20and%20scale.&descAlignY=60&descSize=20&descColor=e0d7ff)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vaibhavi--source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavi-source)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhavijaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavijaiswal)
-[![Email](https://img.shields.io/badge/Email-vaibhavi.jaiswal05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavi.jaiswal05@gmail.com)
+<a href="https://github.com/Vaibhavi-source">
+  <img src="https://img.shields.io/badge/-%20Vaibhavi--source-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=6e40c9" />
+</a>
+<a href="https://www.linkedin.com/in/vaibhavijaiswal">
+  <img src="https://img.shields.io/badge/-vaibhavijaiswal-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
+</a>
+<a href="mailto:vaibhavi.jaiswal05@gmail.com">
+  <img src="https://img.shields.io/badge/-vaibhavi.jaiswal05@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=c0392b" />
+</a>
 
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=2nd-year+CSE+%40+RV+College+of+Engineering%2C+Bengaluru;AI+%7C+Web3+%7C+Full-Stack+%7C+Hackathon+Builder;GSoC+2026+Applicant+%7C+National+Hackathon+Winner)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Vaibhavi-source&style=flat-square&color=blueviolet&label=Profile+Views" />
 </div>
 
 ---
@@ -60,8 +76,15 @@ Forever iterating — *learning, building, and refining* with every commit.
 **AI / ML / Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Infra**
 
@@ -75,7 +98,7 @@ Forever iterating — *learning, building, and refining* with every commit.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Winning Projects
 
 ### 🆘 Rescue Connect — Social Media Disaster Response System
 > *Best Women in Tech — Prayatna 3.0 (36-hour National Hackathon)*
@@ -86,7 +109,6 @@ An AI + ML-powered platform that monitors social media in real-time to detect, c
 
 **Tech:** `React` `Vite` `TailwindCSS` `Leaflet` `FastAPI` `Gemini VLM` `spaCy` `YOLO` `Tesseract` `Supabase` `OpenStreetMap` `Google Cloud`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vaibhavi-source) (https://github.com/Vaibhavi-source)
 
 ---
 
@@ -99,7 +121,6 @@ A centralized platform that aggregates micro-credentials from institutes, unifie
 
 **Tech:** `Node.js` `Express.js` `Supabase` `jsPDF` `Chart.js` `Custom Blockchain` `Kotlin` `MetaMask` `Python` `spaCy`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vaibhavi-source) (https://github.com/Vaibhavi-source)
 
 ---
 
@@ -112,7 +133,6 @@ A Web3 subscription platform that eliminates platform fees and censorship. Creat
 
 **Tech:** `Solidity` `Remix IDE` `Ethers.js` `Alchemy` `Chainlink` `Gemini API` `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vaibhavi-source/DecentalSubs-Decentralised-Patreon-Blockquest-) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://github.com/Vaibhavi-source)
 
 ---
 
@@ -157,7 +177,7 @@ Full-stack wallet authentication system using Sign-in with Ethereum, React front
 | **Prayatna 3.0** — 36hr National Hackathon | Rescue Connect — AI Disaster Response | 🥇 **Best Women in Tech** | FastAPI, Gemini VLM, spaCy, YOLO, React |
 | **BlockQuest 2025** | DecentralSubs — Web3 Patreon | 🥈 **5th Position** | Solidity, Chainlink, Ethers.js |
 | **BlockQuest 2025** | VeriChain — Wallet 2FA | 🏅 **Top 10, Fellowship Awarded** | React, Node.js, Sign-in with Ethereum |
-| **Google Vision 2047** | Bharat CrediFy | 🌟 **National Finalist — Top 16** | Custom Blockchain, Node.js, Python |
+| **Google Vision 2047** | Unicred | 🌟 **National Finalist — Top 16** | Custom Blockchain, Node.js, Python |
 | **SIH 2025** | Bharat CrediFy | 🏫 **Internal Round Qualifier** | Node.js, Supabase, MetaMask |
 
 
