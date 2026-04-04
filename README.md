@@ -207,15 +207,6 @@ Full-stack wallet authentication system using Sign-in with Ethereum, React front
 
 ---
 
-## 🌊 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavi-source&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
