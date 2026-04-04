@@ -41,14 +41,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=999999&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=with+every+commit+%F0%9F%9A%80" />
 
 </div>
----
+
 
 ## 🙋‍♀️ About Me
 
 - 🎓 B.E. Computer Science @ **RV College of Engineering**, Bengaluru
 - 🧠 Deep interest in **AI/ML systems**, **LLM pipelines**, **Blockchain** and **applied problem solving**
 - ⛓️ Exploring **Web3 & blockchain** — Solana fellowship, smart contracts, DeFi infra
-- 🏆 Multiple **hackathon** wins and recognitions
+- 🏆 **hackathon** wins and recognitions
 
 ---
 
