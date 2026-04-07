@@ -112,14 +112,17 @@
 
 ## 🚀 Winning Projects
 
-### 🆘 Rescue Connect — Social Media Disaster Response System
-> *Best Women in Tech — Prayatna 3.0 (36-hour National Hackathon)*
+### 🆘 Rescue Connect — Unified Emergency Response Platform
+> *Best Women in Tech — Prayatna 3.0 (36-hour National Hackathon) | 1650+ participants across India*
 
-An AI + ML-powered platform that monitors social media in real-time to detect, classify, and geolocate disaster events — helping authorities respond faster.
+Navigation isn't the problem — **the absence of seamless coordination is.** RescueConnect reimagines emergency response as a single intelligent ecosystem connecting the person reporting, the authority orchestrating, and the vehicle executing — all in real time.
 
-**Key Features:** AI Image Analysis · OCR Pipeline (YOLO + Tesseract) · spaCy NER for disaster categorization · Geolocation inference · Authority Dashboard with live map · Simulator
+**3-Layer Architecture:**
+- 📱 **Layer 1 — Detection & Reporting:** React interface for SOS/social signal ingestion → Supabase (PostgreSQL)
+- 🧠 **Layer 2 — Intelligence & Decision:** YOLO + Tesseract OCR · spaCy NER · Gemini Vision / Groq classification · OSM Nominatim geolocation
+- 🚗 **Layer 3 — Routing & Orchestration:** SUMO + TraCI · OSRM · LSTM + GCN · XGBoost · DQN-based rerouting · WebSockets (2 Hz) syncing Flutter apps & dashboards — built for Indian conditions (festivals, monsoons, dense traffic)
 
-**Tech:** `React` `Vite` `TailwindCSS` `Leaflet` `FastAPI` `Gemini VLM` `spaCy` `YOLO` `Tesseract` `Supabase` `OpenStreetMap` `Google Cloud`
+**Tech:** `React` `Vite` `TailwindCSS` `FastAPI` `Supabase` `Gemini VLM` `Groq` `spaCy` `YOLO` `Tesseract` `OSRM` `SUMO` `TraCI` `LSTM+GCN` `XGBoost` `DQN` `WebSockets` `Flutter` `Google Cloud`
 
 
 ---
