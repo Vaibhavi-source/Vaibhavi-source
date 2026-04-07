@@ -48,7 +48,7 @@
 - 🎓 B.E. Computer Science @ **RV College of Engineering**, Bengaluru
 - 🧠 Deep interest in **AI/ML systems**, **LLM pipelines**, **Blockchain** and **applied problem solving**
 - ⛓️ Exploring **Web3 & blockchain** — Solana fellowship, smart contracts, DeFi infra
-- 🏆 **hackathon** wins and recognitions
+- 🏆 **Hackathon** wins and recognitions
 
 ---
 
