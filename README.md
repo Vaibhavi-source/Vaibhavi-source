@@ -112,41 +112,63 @@
 
 ## 🚀 Winning Projects
 
+<table>
+<tr>
+<td width="100%" valign="top">
+
 ### 🆘 Rescue Connect — Unified Emergency Response Platform
-> *Best Women in Tech — Prayatna 3.0 (36-hour National Hackathon) | 1650+ participants across India*
+
+![](https://img.shields.io/badge/🏆_Best_Women_in_Tech-Prayatna_3.0_|_1650+_participants-FF6B6B?style=for-the-badge)
 
 Navigation isn't the problem — **the absence of seamless coordination is.** RescueConnect reimagines emergency response as a single intelligent ecosystem connecting the person reporting, the authority orchestrating, and the vehicle executing — all in real time.
 
-**3-Layer Architecture:**
-- 📱 **Layer 1 — Detection & Reporting:** React interface for SOS/social signal ingestion → Supabase (PostgreSQL)
-- 🧠 **Layer 2 — Intelligence & Decision:** YOLO + Tesseract OCR · spaCy NER · Gemini Vision / Groq classification · OSM Nominatim geolocation
-- 🚗 **Layer 3 — Routing & Orchestration:** SUMO + TraCI · OSRM · LSTM + GCN · XGBoost · DQN-based rerouting · WebSockets (2 Hz) syncing Flutter apps & dashboards — built for Indian conditions (festivals, monsoons, dense traffic)
+| Layer | Role | Stack |
+|---|---|---|
+| 📱 **Detection & Reporting** | SOS/social signal ingestion | React · Supabase · PostgreSQL |
+| 🧠 **Intelligence & Decision** | Extract, classify, geolocate | YOLO · Tesseract · spaCy · Gemini · Groq · OSM |
+| 🚗 **Routing & Orchestration** | Real-time rerouting for Indian roads | SUMO · TraCI · OSRM · LSTM+GCN · XGBoost · DQN · WebSockets |
 
-**Tech:** `React` `Vite` `TailwindCSS` `FastAPI` `Supabase` `Gemini VLM` `Groq` `spaCy` `YOLO` `Tesseract` `OSRM` `SUMO` `TraCI` `LSTM+GCN` `XGBoost` `DQN` `WebSockets` `Flutter` `Google Cloud`
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhavi-source) [![Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://github.com/Vaibhavi-source)
 
+</td>
+</tr>
 
----
+<tr>
+<td width="100%" valign="top">
 
 ### 🏅 Bharat CrediFy — Blockchain-Based Micro-Credential Aggregator
-> *Google Vision 2047 — National Finalist | SIH25 — Internal Round*
 
-A centralized platform that aggregates micro-credentials from institutes, unifies learner profiles, and enables tamper-proof employer verification via custom blockchain.
+![](https://img.shields.io/badge/🌟_National_Finalist-Google_Vision_2047_|_SIH25_Internal_Round-FFD700?style=for-the-badge&labelColor=333)
+
+A centralized platform aggregating micro-credentials to unify learner profiles, streamline institute issuance, and simplify employer verification — leveraging blockchain for tamper-proof validation.
 
 **Key Features:** Unified Learner Portal · Institute Certificate Issuance · Employer Verification Dashboard · Hash Mapping · Intelligent Talent Scout
 
-**Tech:** `Node.js` `Express.js` `Supabase` `jsPDF` `Chart.js` `Custom Blockchain` `Kotlin` `MetaMask` `Python` `spaCy`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhavi-source) [![Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://github.com/Vaibhavi-source)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
 
 ### ⛓️ DecentralSubs — Decentralized Patreon
-> *BlockQuest 2025 — 5th Position*
+
+![](https://img.shields.io/badge/🥈_5th_Position-BlockQuest_2025-A78BFA?style=for-the-badge&labelColor=222)
 
 A Web3 subscription platform that eliminates platform fees and censorship. Creators receive direct ERC-20 payments managed entirely by on-chain smart contracts with automated recurring billing via Chainlink.
 
-**Key Features:** On-chain Tier Management · Direct Fan-to-Creator Payments · Chainlink Automation for recurring billing · Role-Switching UI
+**Key Features:** On-chain Tier Management · Direct Fan-to-Creator Payments · Chainlink Automation · Role-Switching UI
 
-**Tech:** `Solidity` `Remix IDE` `Ethers.js` `Alchemy` `Chainlink` `Gemini API` `Tailwind CSS`
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white) ![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0E?style=flat-square&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhavi-source/DecentalSubs-Decentralised-Patreon-Blockquest-) [![Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://github.com/Vaibhavi-source)
+
+</td>
+</tr>
+</table>
 
 
 ---
