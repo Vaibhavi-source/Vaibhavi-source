@@ -75,6 +75,8 @@
 
 **AI / ML / Data**
 
+**AI / ML / Data**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
@@ -85,6 +87,17 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54E2B?style=for-the-badge&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GCN](https://img.shields.io/badge/GCN-9B59B6?style=for-the-badge&logo=graphql&logoColor=white)
+![DQN](https://img.shields.io/badge/DQN%20RL-2ECC71?style=for-the-badge&logo=openai&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-7D4698?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![SUMO](https://img.shields.io/badge/SUMO%20TraCI-F39C12?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **Tools & Infra**
 
